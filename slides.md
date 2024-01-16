@@ -7,7 +7,7 @@ lineNumbers: false
 drawings:
   persist: false
 transition: slide-left
-title: CC & FPT Final Presentation
+title: Final Presentation
 mdc: true
 ---
 
@@ -29,5 +29,24 @@ mdc: true
 </div>
 
 ---
-transition: fade-out
+layout: default
+---
+
+# Table of contents
+
+- **Introduce Myself**
+- **Projects and Technical Share**
+- **Life in Danang**
+- **Activities**
+- **Summary**
+
+---
+layout: default
+---
+
+# Introduce Myself
+
+
+---
+layout: end
 ---
