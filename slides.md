@@ -262,6 +262,20 @@ layout: default
 </div>
 
 ---
+layout: iframe-right
+url: https://my-blog-yuta-2001.vercel.app/profile
+---
+
+<h1 class="mb-2">Tried to make blog</h1>
+<div class="">
+  <p class="text-gray-700">
+    I've learnt React.js & Typescript from project. <br />
+    So I tried to make a tech blog that using TypeScript & Next.js. <br />
+    Before I came here, maybe I couldn't do this. <br />
+    I felt my growth.
+  </p>
+</div>
+---
 layout: default
 ---
 
