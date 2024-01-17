@@ -36,10 +36,9 @@ layout: default
 
 <br />
 
-- **Introduce Myself**
+- **Brief Self-Introduction**
 - **Projects and Technical Sharing**
 - **Life in Danang**
-- **Activities**
 - **Summary**
 
 
@@ -81,12 +80,24 @@ class: p-0
 layout: default
 ---
 
-# Project & Technical Sharing
+<h1 class="text-center font-bold mt-20" style="font-size: 4rem;">Project & Technical Sharing</h1>
+
+<div class="pt-12 mx-auto text-center">
+  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+    Press Space for next page <carbon:arrow-right class="inline"/>
+  </span>
+</div>
+
+---
+layout: default
+---
+
+# Projects I joined
 
 <br />
 
-- **Bedycle** - Medical Application (already closed)
-- **Telegran Bot** - Trading chat bot
+- **Bedycle** - Medical Application (already closed) (from Augast to November)
+- **Telegran Bot** - Trading chat bot (from November to January)
 
 ---
 layout: default
@@ -218,17 +229,49 @@ layout: default
 </div>
 
 
-<style>
-@keyframes jump {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-20px);
-  }
-}
-</style>
+---
+layout: default
+---
 
+# Challenging
+
+<div class="mb-2 p-4 bg-blue-200 rounded-lg shadow-md">
+  <h4 class="font-bold">First Challeng of Client Side dev</h4>
+  <p class="text-gray-700 text-sm" style="margin: 0;">
+    When I've joined internship in Japan, I focused on Backend side (PHP) <br />
+    PHP is "Object-oriented programming" React is "Functional programming" <br />
+    Needed to understand how to cache, how to manage state, how to rerendering etc... <br />
+    (This slide is using slidev (vue.js))
+  </p>
+</div>
+<div class="mb-2 p-4 bg-green-200 rounded-lg shadow-md">
+  <h4 class="font-bold">Understand What is Web3, How to trade</h4>
+  <p class="text-gray-700 text-sm" style="margin: 0;">
+    When I joined, I can understand python easily because similar to PHP, but it was hard to understand how to trade. <br />
+    There are so many terms, like (collateral, pool, tp/ls, short, long, limit...etc) <br />
+    But every members support me and I was getting understand how to trade in Web3 network.
+  </p>
+</div>
+<div class="mb-2 p-4 bg-purple-200 rounded-lg shadow-md">
+  <h4 class="font-bold">Different Language</h4>
+  <p class="text-gray-700 text-sm" style="margin: 0;">
+    My English is kind of JP English, so hard to tell. <br />
+    And CC member's English is also kind of Viet English. Hard to understand. <br />
+    But now I used to pronounce and easy to understand 🙆
+  </p>
+</div>
+
+---
+layout: default
+---
+
+<h1 class="text-center font-bold mt-20" style="font-size: 4rem;">Life In Danang</h1>
+
+<div class="pt-12 mx-auto text-center">
+  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+    Press Space for next page <carbon:arrow-right class="inline"/>
+  </span>
+</div>
 
 ---
 layout: end
