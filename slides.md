@@ -92,12 +92,36 @@ layout: default
 layout: default
 ---
 
-# Projects I joined
+<h1 class="font-bold">Projects</h1>
 
 <br />
 
-- **Bedycle** - Medical Application (already closed) (from Augast to November)
-- **Telegran Bot** - Trading chat bot (from November to January)
+- **Bedycle** - Medical Application (already closed)
+- **Telegran Bot** - Trading chat bot
+
+<div class="border-t border-gray-300 my-12 mx-4"></div>
+
+<div class="flex justify-around text-md text-gray-600 px-4">
+  <span>July</span>
+  <span>August</span>
+  <span>September</span>
+  <span>October</span>
+  <span>November</span>
+  <span>December</span>
+  <span>January</span>
+</div>
+
+<div class="relative mt-4 mx-4">
+  <div class="absolute top-0 left-1/6 w-110 p-2 border-2 font-bold border-blue-400 text-center rounded-full">
+    Bedycle<br />
+    (Client-Side・Server-Side)
+  </div>
+
+  <div class="absolute top-20 left-5/9 w-4/9 p-2 border-2 font-bold border-green-400 text-center rounded-full">
+    Telegran Bot <br />
+    (Server-Side)
+  </div>
+</div>
 
 ---
 layout: default
@@ -239,7 +263,7 @@ layout: default
   <h4 class="font-bold">First Challeng of Client Side dev</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
     When I've joined internship in Japan, I focused on Backend side (PHP) <br />
-    PHP is "Object-oriented programming" React is "Functional programming" <br />
+    PHP is "Object-oriented programming" React is "Functional programming" PHP isn't strict for type Typescript is strict for type <br />
     Needed to understand how to cache, how to manage state, how to rerendering etc... <br />
     (This slide is using slidev (vue.js))
   </p>
@@ -260,6 +284,24 @@ layout: default
     But now I used to pronounce and easy to understand 🙆
   </p>
 </div>
+
+---
+layout: default
+---
+
+# Success
+
+<div class="mb-2 p-4 bg-purple-200 rounded-lg shadow-md">
+  <h4 class="font-bold">Improve the response time of bot</h4>
+  <p class="text-gray-700 text-sm" style="margin: 0;">
+    (Telegram Bot) <br />
+    Our bot had a problem of response time. When we send message to user, sometime we need many information (like Current ETH price, Current commission, etc) so our bot need to request so many times. That's is because our bot's response time is so late. (when execute order, user needed to wait for 20-30sec).<br />
+    I needed to fix this problem, so firstly, I investigated another OSS product code, and found what they use. And then I introduce that one, I could reduce the response time from 20-30sec => 2sec.<br />
+    It was so difficult problem for me, but when I success to solve this problem, I was so happy and I could learn a lot of things.
+  </p>
+</div>
+
+
 
 ---
 layout: iframe-right
@@ -286,6 +328,36 @@ layout: default
     Press Space for next page <carbon:arrow-right class="inline"/>
   </span>
 </div>
+
+---
+layout: default
+---
+<h1 class="font-bold text-3xl mb-6">
+  I tried so many delicious foods
+</h1>
+
+---
+layout: default
+---
+<h1 class="font-bold text-3xl mb-6">
+  I tried so many delicious foods
+</h1>
+
+
+---
+layout: default
+---
+<h1 class="font-bold text-3xl mb-6">
+  I tried so many delicious foods
+</h1>
+
+
+---
+layout: default
+---
+<h1 class="font-bold text-3xl mb-6">
+  I tried so many delicious foods
+</h1>
 
 ---
 layout: end
