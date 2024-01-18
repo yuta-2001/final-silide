@@ -11,7 +11,7 @@ title: Final Presentation
 mdc: true
 ---
 
-<h1>What I learned from my internship & life in Vietnam</h1>
+<h1 class="font-bold">What I learned from my internship & life in Danang</h1>
 
 <p class="pt-2">
     Presentation slides for Code Complete & FPT internship program
@@ -32,7 +32,7 @@ mdc: true
 layout: default
 ---
 
-# Table of contents
+<h1 class="font-bold">Table of contents</h1>
 
 <br />
 
@@ -47,7 +47,7 @@ layout: image-right
 image: /images/profile.png
 ---
 
-# Introduce Myself
+<h1 class="font-bold">Introduce Myself</h1>
 
 <br />
 
@@ -234,9 +234,6 @@ layout: default
             <li>
               <logos-mongodb /> MongoDB <span class="inline-block text-xl animate-bounce" style="color: deepskyblue;"><mdi-new-box /></span>
             </li>
-            <li>
-              <logos-redis /> Redis
-            </li>
           </ul>
         </div>
         <div>
@@ -244,6 +241,9 @@ layout: default
           <ul>
             <li>
               <span style="color: mediumblue"><mdi-docker /></span> Docker
+            </li>
+            <li>
+              <logos-redis /> Redis
             </li>
           </ul>
         </div>
@@ -257,7 +257,48 @@ layout: default
 layout: default
 ---
 
-# Challenging
+<h1 class="font-bold">Project System Detail</h1>
+
+<p>
+Python is running three processes.
+The data that ofthen used is stored into Redis.
+</p>
+
+<img class="block h-4/5 w-auto mx-auto mt-8" src="/images/structure-of-app.png">
+
+---
+layout: default
+---
+
+<h1 class="font-bold">What I Learned Newly From Projects</h1>
+
+<ul>
+  <li>
+    What is Web3, What is blockchain
+  </li>
+  <li>
+    The principle of front-end dev (React.js)
+  </li>
+  <li>
+    Difference between SQL and NoSQL
+  </li>
+  <li>
+    Multiprocess and multithread
+  </li>
+  <li>
+    The way of Scrum development
+  </li>
+  <li>
+    etc...
+  </li>
+</ul>
+
+
+---
+layout: default
+---
+
+<h1 class="font-bold">Challenging</h1>
 
 <div class="mb-2 p-4 bg-blue-200 rounded-lg shadow-md">
   <h4 class="font-bold">First Challeng of Client Side dev</h4>
@@ -289,7 +330,7 @@ layout: default
 layout: default
 ---
 
-# Success
+<h1 class="font-bold">Success</h1>
 
 <div class="mb-2 p-4 bg-purple-200 rounded-lg shadow-md">
   <h4 class="font-bold">Improve the response time of bot</h4>
@@ -302,21 +343,31 @@ layout: default
 </div>
 
 
-
 ---
 layout: iframe-right
-url: https://my-blog-yuta-2001.vercel.app/profile
+url: https://my-blog-yuta-2001.vercel.app
 ---
 
-<h1 class="mb-2">Tried to make blog</h1>
-<div class="">
-  <p class="text-gray-700">
-    I've learnt React.js & Typescript from project. <br />
-    So I tried to make a tech blog that using TypeScript & Next.js. <br />
-    Before I came here, maybe I couldn't do this. <br />
-    I felt my growth.
+<h1 class="font-bold">Technical Output</h1>
+
+I output what I learned on the internship and outside of work.
+
+<div class="mb-2 p-4 bg-blue-200 rounded-lg shadow-md">
+  <h4 class="font-bold">My Tech Blog</h4>
+  <p class="text-gray-700 text-sm" style="margin: 0;">
+    I used TypeScript and React.js, so I made a Tech blog as output.
+    Before joining here, I only focus on Backend Side, so I feel my growth.
   </p>
+  <a class="text-xs" href="https://my-blog-yuta-2001.vercel.app/">https://my-blog-yuta-2001.vercel.app/</a>
 </div>
+<div class="mb-2 p-4 bg-green-200 rounded-lg shadow-md">
+  <h4 class="font-bold">Final Presentation</h4>
+  <p class="text-gray-700 text-sm" style="margin: 0;">
+    This presentation is using Slidev (Vue.js)<br />
+  </p>
+  <a class="text-xs" href="https://my-blog-yuta-2001.vercel.app/">https://my-blog-yuta-2001.vercel.app/</a>
+</div>
+
 ---
 layout: default
 ---
@@ -333,7 +384,7 @@ layout: default
 layout: default
 ---
 <h1 class="font-bold text-3xl mb-6">
-  I tried so many delicious foods
+  What I suprised when I came here
 </h1>
 
 ---
