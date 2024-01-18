@@ -155,7 +155,7 @@ layout: default
       <h3 class="font-bold">Project Description</h3>  
       <ul>
         <li>
-          Make it easy to Bed sharing between hospitals
+          Facilitate bed sharing between hospitals
         </li>
         <li>
           Hospital-to-hospital matching services
@@ -279,8 +279,7 @@ layout: default
 <h1 class="font-bold">Project System Detail</h1>
 
 <p>
-Python is running three processes.
-The data that ofthen used is stored into Redis.
+This app are running three Python processes. For frequently used data, This app retrieve it using the second process and store it in Redis.
 </p>
 
 <img class="block h-4/5 w-auto mx-auto mt-8" src="/images/structure-of-app.png">
@@ -289,23 +288,23 @@ The data that ofthen used is stored into Redis.
 layout: default
 ---
 
-<h1 class="font-bold">What I Learned Newly From Projects</h1>
+<h1 class="font-bold">What I Newly Learned From Projects</h1>
 
 <ul>
   <li>
-    What is Web3, What is blockchain
+    Understanding of Web3 and Blockchain
   </li>
   <li>
-    The principle of front-end dev (React.js)
+    Principles of Front-End Development with React.js
   </li>
   <li>
     Difference between SQL and NoSQL
   </li>
   <li>
-    Multiprocess and multithread
+    Understanding of Multiprocessing and Multithreading
   </li>
   <li>
-    The way of Scrum development
+    Approaches to Scrum Development
   </li>
   <li>
     etc...
@@ -317,31 +316,30 @@ layout: default
 layout: default
 ---
 
-<h1 class="font-bold">Challenging</h1>
+<h1 class="font-bold">Challenges</h1>
 
 <div class="mb-2 p-4 bg-blue-200 rounded-lg shadow-md">
-  <h4 class="font-bold">First Challeng of Client Side dev</h4>
+  <h4 class="font-bold">First Challenge in Client-Side Development</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
-    When I've joined internship in Japan, I focused on Backend side (PHP) <br />
-    PHP is "Object-oriented programming" React is "Functional programming" PHP isn't strict for type Typescript is strict for type <br />
-    Needed to understand how to cache, how to manage state, how to rerendering etc... <br />
-    (This slide is using slidev (vue.js))
+    When I joined the internship in Japan, I focused on the backend side (PHP) <br />
+    PHP is object-oriented programming, while React is functional programming, PHP is not strict about types, whereas TypeScript is <br />
+    I needed to understand caching, state management, and re-rendering, etc. <br />
   </p>
 </div>
 <div class="mb-2 p-4 bg-green-200 rounded-lg shadow-md">
   <h4 class="font-bold">Understand What is Web3, How to trade</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
-    When I joined, I can understand python easily because similar to PHP, but it was hard to understand how to trade. <br />
+    When I joined, I could understand Python easily because it's similar to PHP, but understanding trading was challenging. <br />
     There are so many terms, like (collateral, pool, tp/ls, short, long, limit...etc) <br />
-    But every members support me and I was getting understand how to trade in Web3 network.
+    However, every member supported me, and I gradually understood how to trade in the Web3 network.
   </p>
 </div>
 <div class="mb-2 p-4 bg-purple-200 rounded-lg shadow-md">
   <h4 class="font-bold">Different Language</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
-    My English is kind of JP English, so hard to tell. <br />
-    And CC member's English is also kind of Viet English. Hard to understand. <br />
-    But now I used to pronounce and easy to understand 🙆
+    My English is akin to JP English, making it difficult to express myself. <br />
+    Additionally, the CC members' English is similar to Viet English, which was hard to understand for me. <br />
+    But now, I am accustomed to the pronunciation and find it easier to understand. 🙆
   </p>
 </div>
 
@@ -355,9 +353,9 @@ layout: default
   <h4 class="font-bold">Improve the response time of bot</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
     (Telegram Bot) <br />
-    Our bot had a problem of response time. When we send message to user, sometime we need many information (like Current ETH price, Current commission, etc) so our bot need to request so many times. That's is because our bot's response time is so late. (when execute order, user needed to wait for 20-30sec).<br />
-    I needed to fix this problem, so firstly, I investigated another OSS product code, and found what they use. And then I introduce that one, I could reduce the response time from 20-30sec => 2sec.<br />
-    It was so difficult problem for me, but when I success to solve this problem, I was so happy and I could learn a lot of things.
+    Our bot had a response time issue. When sending messages to users, it often required a lot of information (like the current ETH price, current commission, etc.), leading to numerous requests. This was the reason for our bot's delayed response time. For instance, when executing orders, users had to wait for 20-30 seconds.<br />
+    To address this issue, I first investigated the code of another OSS product to understand their approach. After implementing their solution, I managed to reduce the response time from 20-30 seconds to just 2 seconds.<br />
+    It was a challenging problem, but solving it brought me great joy and taught me many things.
   </p>
 </div>
 
@@ -374,17 +372,17 @@ I output what I learned on the internship and outside of work.
 <div class="mb-2 p-4 bg-blue-200 rounded-lg shadow-md">
   <h4 class="font-bold">My Tech Blog</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
-    I used TypeScript and React.js, so I made a Tech blog as output.
-    Before joining here, I only focus on Backend Side, so I feel my growth.
+    Having used TypeScript and React.js, I created a tech blog to showcase my work.
+    Before joining this program, I primarily focused on backend development, so I can really see my growth.
   </p>
   <a class="text-xs" href="https://my-blog-yuta-2001.vercel.app/">https://my-blog-yuta-2001.vercel.app/</a>
 </div>
 <div class="mb-2 p-4 bg-green-200 rounded-lg shadow-md">
   <h4 class="font-bold">Final Presentation</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
-    This presentation is using Slidev (Vue.js)<br />
+    This presentation was created using Slidev (Vue.js), demonstrating my front-end development skills.<br />
   </p>
-  <a class="text-xs" href="https://my-blog-yuta-2001.vercel.app/">https://my-blog-yuta-2001.vercel.app/</a>
+  <a class="text-xs" href="https://final-silide-jspz5k46f-yuta-2001.vercel.app/1">https://final-silide-jspz5k46f-yuta-2001.vercel.app/1</a>
 </div>
 
 ---
@@ -452,8 +450,8 @@ image: /images/activity-background.png
     </h3>
     <p class="text-xs text-center">
       Every Wednesday evening, we played football.<br />
-      The first day of my internship, Hoa-san invited us to football.<br />
-      We didn't expect that I play football from first day but It was so interesting 😄
+      On the first day of my internship, Hoa-san invited us to play football.<br />
+      I didn't expect to play football on my first day, but it was very interesting. 😄
     </p>
   </div>
   <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
@@ -466,10 +464,10 @@ image: /images/activity-background.png
       Cycling
     </h3>
     <p class="text-xs text-center">
-      One day, Nhung-san and Trang-san invited us to join.<br />
-      I could keep good health and see moncky, beautiful views.<br />
-      And I like to eat Noodle after this activity.<br />
-      Very happy to join 😄
+      One day, Nhung-san and Trang-san invited us to go cycling.<br />
+      It helped me maintain good health, and I saw monkeys and beautiful views.<br />
+      I also enjoyed eating noodles after cycling.<br />
+      I was very happy to participate. 😄
     </p>
   </div>
   <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
@@ -503,23 +501,23 @@ layout: default
 ---
 
 <h1 class="font-bold">
-  What I learnt from this internship
+  What I Learned from This Internship
 </h1>
 
 <ul>
-  <li>New Technical skills like python, TypeScript</li>
-  <li>The knowledge of Web3</li>
-  <li>The life in Vietnam</li>
-  <li>How to work and communicate with other countries people</li>
+  <li>New technical skills such as Python and TypeScript</li>
+  <li>Knowledge of Web3</li>
+  <li>Life in Vietnam</li>
+  <li>How to work and communicate with people from other countries</li>
   etc
 </ul>
 
 <h2 class="font-bold" style="color: #5d8392">Appreciate</h2>
 <p>
-  CC provide me with a lot of growth opportunities.
-  Team members supported me a lot.<br />
-  Some members invited me a lot of activities.<br />
-  Thank you for helping me, playing with me, and talking to me!
+  CC provided me with many growth opportunities. <br />
+  The team members gave me a lot of support.<br />
+  Some members invited me to various activities and to eat delicious food, etc.<br />
+  I appreciate all the help, the times we spent playing together, and our conversations!
 </p>
 
 ---
