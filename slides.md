@@ -521,6 +521,32 @@ layout: default
 </p>
 
 ---
+layout: default
+---
+
+<h1 class="font-bold">
+  Reference
+</h1>
+
+<ul>
+  <li>
+    https://danang-holic.com/tips/danang-travel-budget/
+  </li>
+  <li>
+    https://ganref.jp/m/badboy1975/portfolios/photo_detail/2200563
+  </li>
+  <li>
+    https://www.asahi.com/articles/DA3S15670989.html
+  </li>
+  <li>
+    https://www.fun-japan.jp/vn/articles/12611
+  </li>
+  <li>
+    https://r-vietnam.com/blog/basic-information-about-vietnam-in-2023-422.html
+  </li>
+</ul>
+
+---
 layout: end
 ---
 
