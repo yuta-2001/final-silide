@@ -53,6 +53,10 @@ layout: default
   </span>
 </div>
 
+<span class="font-bold absolute bottom-4 left-1/2 -translate-x-1/2 text-xl w-40 h-40 text-center rounded-full border-4" style="font-size: 7rem; line-height: 10rem; color: #5d8392;">
+１
+</span>
+
 ---
 layout: image-right
 image: /images/profile.png
@@ -98,6 +102,10 @@ layout: default
     Press Space for next page <carbon:arrow-right class="inline"/>
   </span>
 </div>
+
+<span class="font-bold absolute bottom-4 left-1/2 -translate-x-1/2 text-xl w-40 h-40 text-center rounded-full border-4" style="font-size: 7rem; line-height: 10rem; color: #5d8392;">
+2
+</span>
 
 ---
 layout: default
@@ -356,7 +364,7 @@ layout: default
 
 ---
 layout: iframe-right
-url: https://my-blog-yuta-2001.vercel.app
+url: https://my-blog-yuta-2001.vercel.app/blogs
 ---
 
 <h1 class="font-bold">Technical Output</h1>
@@ -390,6 +398,11 @@ layout: default
     Press Space for next page <carbon:arrow-right class="inline"/>
   </span>
 </div>
+
+<span class="font-bold absolute bottom-4 left-1/2 -translate-x-1/2 text-xl w-40 h-40 text-center rounded-full border-4" style="font-size: 7rem; line-height: 10rem; color: #5d8392;">
+３
+</span>
+
 
 ---
 layout: default
@@ -481,6 +494,34 @@ layout: default
   </span>
 </div>
 
+<span class="font-bold absolute bottom-4 left-1/2 -translate-x-1/2 text-xl w-40 h-40 text-center rounded-full border-4" style="font-size: 7rem; line-height: 10rem; color: #5d8392;">
+4
+</span>
+
+---
+layout: default
+---
+
+<h1 class="font-bold">
+  What I learnt from this internship
+</h1>
+
+<ul>
+  <li>New Technical skills like python, TypeScript</li>
+  <li>The knowledge of Web3</li>
+  <li>The life in Vietnam</li>
+  <li>How to work and communicate with other countries people</li>
+  etc
+</ul>
+
+<h2 class="font-bold" style="color: #5d8392">Appreciate</h2>
+<p>
+  CC provide me with a lot of growth opportunities.
+  Team members supported me a lot.<br />
+  Some members invited me a lot of activities.<br />
+  Thank you for helping me, playing with me, and talking to me!
+</p>
+
 ---
 layout: end
 ---
@@ -491,5 +532,3 @@ layout: end
   I wish yours prosperity.
   </h1>
 </div>
-
-
