@@ -415,22 +415,22 @@ layout: default
   <div class="h-50 flex justify-center items-center relative overflow-hidden group">
     <h3 class="font-bold z-20 text-white group-hover:z-10" style="font-size: 2rem; text-shadow: 1px 2px 3px #808080;">Too Many Bike</h3>
     <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
-    <img class="absolute top-0 left-0 w-full z-0" src="images/bike.jpg">
+    <img class="absolute top-0 left-0 w-full z-0" src="/images/bike.jpg">
   </div>
   <div class="h-50 flex justify-center items-center relative overflow-hidden group">
     <h3 class="font-bold z-20 text-white group-hover:z-10" style="font-size: 2rem; text-shadow: 1px 2px 3px #808080;">Many Young People</h3>
     <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
-    <img class="absolute top-0 left-0 w-full z-0" src="images/population.webp">
+    <img class="absolute top-0 left-0 w-full z-0" src="/images/population.webp">
   </div>
   <div class="h-50 flex justify-center items-center relative overflow-hidden group">
     <h3 class="font-bold z-20 text-white group-hover:z-10" style="font-size: 2rem; text-shadow: 1px 2px 3px #808080;">Early Morning</h3>
     <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
-    <img class="absolute top-0 left-0 w-full z-0" src="images/morning.png">
+    <img class="absolute top-0 left-0 w-full z-0" src="/images/morning.png">
   </div>
   <div class="h-50 flex justify-center items-center relative overflow-hidden group">
     <h3 class="font-bold z-20 text-white group-hover:z-10 text-center" style="font-size: 1.7rem; text-shadow: 1px 2px 3px #808080;">People talk to me in japanese <br />(Sometime in Korea🤣)</h3>
     <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
-    <img class="absolute top-0 left-0 w-full z-0" src="images/japan.png">
+    <img class="absolute top-0 left-0 w-full z-0" src="/images/japan.png">
   </div>
 </div>
 
@@ -457,7 +457,7 @@ image: /images/activity-background.png
     </p>
   </div>
   <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
-  <img class="absolute top-0 left-0 w-full z-0" src="images/football.png">
+  <img class="absolute top-0 left-0 w-full z-0" src="/images/football.png">
 </div>
 
 <div class="h-47 flex justify-center items-center relative overflow-hidden group">
@@ -473,7 +473,7 @@ image: /images/activity-background.png
     </p>
   </div>
   <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
-  <img class="absolute top-0 left-0 w-full z-0" src="images/cycling.png">
+  <img class="absolute top-0 left-0 w-full z-0" src="/images/cycling.png">
 </div>
 
 ---
