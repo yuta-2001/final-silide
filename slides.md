@@ -41,6 +41,17 @@ layout: default
 - **Life in Danang**
 - **Summary**
 
+---
+layout: default
+---
+
+<h1 class="text-center font-bold mt-20" style="font-size: 4rem;">Brief Self-Introduction</h1>
+
+<div class="pt-12 mx-auto text-center">
+  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+    Press Space for next page <carbon:arrow-right class="inline"/>
+  </span>
+</div>
 
 ---
 layout: image-right
@@ -388,22 +399,22 @@ layout: default
 </h1>
 
 <div class="grid grid-cols-2 gap-4">
-  <div class="h-50 bg-green flex justify-center items-center relative overflow-hidden group">
+  <div class="h-50 flex justify-center items-center relative overflow-hidden group">
     <h3 class="font-bold z-20 text-white group-hover:z-10" style="font-size: 2rem; text-shadow: 1px 2px 3px #808080;">Too Many Bike</h3>
     <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
     <img class="absolute top-0 left-0 w-full z-0" src="images/bike.jpg">
   </div>
-  <div class="h-50 bg-green flex justify-center items-center relative overflow-hidden group">
+  <div class="h-50 flex justify-center items-center relative overflow-hidden group">
     <h3 class="font-bold z-20 text-white group-hover:z-10" style="font-size: 2rem; text-shadow: 1px 2px 3px #808080;">Many Young People</h3>
     <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
     <img class="absolute top-0 left-0 w-full z-0" src="images/population.webp">
   </div>
-  <div class="h-50 bg-green flex justify-center items-center relative overflow-hidden group">
+  <div class="h-50 flex justify-center items-center relative overflow-hidden group">
     <h3 class="font-bold z-20 text-white group-hover:z-10" style="font-size: 2rem; text-shadow: 1px 2px 3px #808080;">Early Morning</h3>
     <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
     <img class="absolute top-0 left-0 w-full z-0" src="images/morning.png">
   </div>
-  <div class="h-50 bg-green flex justify-center items-center relative overflow-hidden group">
+  <div class="h-50 flex justify-center items-center relative overflow-hidden group">
     <h3 class="font-bold z-20 text-white group-hover:z-10 text-center" style="font-size: 1.7rem; text-shadow: 1px 2px 3px #808080;">People talk to me in japanese <br />(Sometime in Korea🤣)</h3>
     <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
     <img class="absolute top-0 left-0 w-full z-0" src="images/japan.png">
@@ -412,9 +423,73 @@ layout: default
 
 
 ---
+layout: image-right
+image: /images/activity-background.png
+---
+
+<h1 class="font-bold text-3xl" style="margin-bottom: 2rem;">
+  Activities
+</h1>
+
+<p class="mb-4">I've mainly joined two activities.</p>
+<div class="h-47 flex justify-center items-center relative overflow-hidden group mb-4">
+  <div class="p-2 z-20 text-white">
+    <h3 class="font-bold z-20 text-white group-hover:z-10 text-center" style="font-size: 1.7rem; text-shadow: 1px 2px 3px #808080;">
+      Football
+    </h3>
+    <p class="text-xs text-center">
+      Every Wednesday evening, we played football.<br />
+      The first day of my internship, Hoa-san invited us to football.<br />
+      We didn't expect that I play football from first day but It was so interesting 😄
+    </p>
+  </div>
+  <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
+  <img class="absolute top-0 left-0 w-full z-0" src="images/football.png">
+</div>
+
+<div class="h-47 flex justify-center items-center relative overflow-hidden group">
+  <div class="p-2 z-20 text-white">
+    <h3 class="font-bold z-20 text-white group-hover:z-10 text-center" style="font-size: 1.7rem; text-shadow: 1px 2px 3px #808080;">
+      Cycling
+    </h3>
+    <p class="text-xs text-center">
+      One day, Nhung-san and Trang-san invited us to join.<br />
+      I could keep good health and see moncky, beautiful views.<br />
+      And I like to eat Noodle after this activity.<br />
+      Very happy to join 😄
+    </p>
+  </div>
+  <div class="absolute top-0 left-0 w-full h-full bg-black opacity-50 group-hover:opacity-0 z-10 transition-opacity duration-200"></div>
+  <img class="absolute top-0 left-0 w-full z-0" src="images/cycling.png">
+</div>
+
+---
+layout: image
+image: /images/album.png
+---
+
+
+---
+layout: default
+---
+
+<h1 class="text-center font-bold mt-20" style="font-size: 4rem;">Summary</h1>
+
+<div class="pt-12 mx-auto text-center">
+  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+    Press Space for next page <carbon:arrow-right class="inline"/>
+  </span>
+</div>
+
+---
 layout: end
 ---
 
-# Thanks for your kindness till today and I wish yours prosperity.
+<div class="flex items-center justify-center">
+  <h1 class="text-center">
+  Thanks for your kindness till today.<br />
+  I wish yours prosperity.
+  </h1>
+</div>
 
 
