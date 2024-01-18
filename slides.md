@@ -382,7 +382,7 @@ I output what I learned on the internship and outside of work.
   <p class="text-gray-700 text-sm" style="margin: 0;">
     This presentation was created using Slidev (Vue.js), demonstrating my front-end development skills.<br />
   </p>
-  <a class="text-xs" href="https://final-silide-jspz5k46f-yuta-2001.vercel.app/1">https://final-silide-jspz5k46f-yuta-2001.vercel.app/1</a>
+  <a class="text-xs" href="https://final-silide.vercel.app/1">https://final-silide.vercel.app/1</a>
 </div>
 
 ---
