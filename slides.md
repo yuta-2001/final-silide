@@ -380,7 +380,7 @@ I output what I learned on the internship and outside of work.
 <div class="mb-2 p-4 bg-green-200 rounded-lg shadow-md">
   <h4 class="font-bold">Final Presentation</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
-    This presentation was created using Slidev (Vue.js), demonstrating my front-end development skills.<br />
+    This presentation was created using Slidev (Vue.js).<br />
   </p>
   <a class="text-xs" href="https://final-silide.vercel.app/1">https://final-silide.vercel.app/1</a>
 </div>
