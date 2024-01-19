@@ -337,9 +337,9 @@ layout: default
 <div class="mb-2 p-4 bg-purple-200 rounded-lg shadow-md">
   <h4 class="font-bold">Different Language</h4>
   <p class="text-gray-700 text-sm" style="margin: 0;">
-    My English is akin to JP English, making it difficult to express myself. <br />
-    Additionally, the CC members' English is similar to Viet English, which was hard to understand for me. <br />
-    But now, I am accustomed to the pronunciation and find it easier to understand. 🙆
+    I didn't have enough skills to communicate with people from other countries. (Lack of listening and speaking skill) <br />
+    Additionally, my English is akin to JP English, making it difficult to express myself. <br /> 
+    But now,My English has improved and it's easier for me to speak and understand 🙆
   </p>
 </div>
 
