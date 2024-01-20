@@ -57,6 +57,7 @@ layout: default
 １
 </span>
 
+
 ---
 layout: image-right
 image: /images/profile.png
